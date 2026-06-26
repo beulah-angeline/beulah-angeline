@@ -58,7 +58,7 @@
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/beulah-angeline-yasby-3b0034291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/beulah-angeline-yasby-3b0034291)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:beulahangelineyasbyj@gmail.com)
 
 ---
