@@ -36,8 +36,8 @@
 
 ## 📜 Certifications
 
-- 🏅 [SnowPro Associate: Platform]([#](https://achieve.snowflake.com/8a01a698-59cb-4e0f-a3c7-9ed4ad907b3d#acc.dzSRFrem))
-- 🏅 [Microsoft Azure AI Fundamentals]([#](https://www.linkedin.com/in/beulah-angeline-yasby-3b0034291/details/certifications/))
+- 🏅 [SnowPro Associate: Platform](https://achieve.snowflake.com/8a01a698-59cb-4e0f-a3c7-9ed4ad907b3d#acc.dzSRFrem)
+- 🏅 [Microsoft Azure AI Fundamentals](https://www.linkedin.com/in/beulah-angeline-yasby-3b0034291/details/certifications/)
 
 ---
 
